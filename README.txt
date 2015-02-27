@@ -10,7 +10,7 @@ Programa escrito por El Gato Inquieto (http://elgatoinquieto.net/) en base a
 las modificaciones realizadas por Tom Igoe y Davide Gomba sobre el original.
 
 TinkerKit_2-3_axis_accelerometer.ino ---> Tom Igoe y Davide Gomba.
-Acelerometro_Tinkerkit.ino ---> El Gato Inquieto.
+acelerometro_3ejes_TinkerKit.ino ---> El Gato Inquieto.
 
 Software sujeto a la licencia GPL v3.0
 
